@@ -5,9 +5,11 @@ This repo is the source code of a paper that is under review.
 In that paper, we evaluate different strategies in multimodal learning for person identification.
 There are different scripts:
 
-SpeakerIdentificationUsingXVectors.xlm ----------> Speaker identification using xVector \n
-Train_pretrained_VggFace2.m ---------> face recognition using VGGFace2 pre-trained net, and sensory fusion with import fused image data.\n
- feature_fusion_xvector_vggface.m --------> train and evaluate feature fusion mode and, with some changes in the name of the destination layers, work as score fusion.\n
+SpeakerIdentificationUsingXVectors.xlm ----------> Speaker identification using xVector 
+
+Train_pretrained_VggFace2.m ---------> face recognition using VGGFace2 pre-trained net, and sensory fusion with import fused image data.
+
+ feature_fusion_xvector_vggface.m --------> train and evaluate feature fusion mode and, with some changes in the name of the destination layers, work as score fusion.
 
 
  ********** details will be added after the paper is published ************
