@@ -10,4 +10,4 @@ Train_pretrained_VggFace2.m ---------> face recognition using VGGFace2 pre-train
  feature_fusion_xvector_vggface.m --------> train and evaluate feature fusion mode and, with some changes in the name of the destination layers, work as score fusion.
 
 
- ********** details will be added after paper publication************
+ ********** details will be added after the paper is published ************
