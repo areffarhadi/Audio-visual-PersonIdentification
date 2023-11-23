@@ -1,6 +1,7 @@
 # Audio Visual Person Identification in different strategies on the Voxceleb2 Dataset
 
-Implementation of different strategies in audio-visual person identification on the Voxceleb2 dataset
+Implementation of different strategies in audio-visual person identification on the Voxceleb2 dataset.
+
 This repo is the source code of a paper that is under review.
 In that paper, we evaluate different strategies in multimodal learning for person identification.
 There are different scripts:
