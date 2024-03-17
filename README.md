@@ -12,9 +12,6 @@ Train_pretrained_VggFace2.m ---------> face recognition using VGGFace2 pre-train
 
  feature_fusion_xvector_vggface.m --------> train and evaluate feature fusion mode and, with some changes in the name of the destination layers, work as score fusion.
 
-This is the training plot of the proposed Facenet from pretrained VGGface2:
-![facenet_training_process_fold3](https://github.com/areffarhadi/Audio-visual_Person_Identification/assets/93467718/c33c3011-7b8a-42be-b266-8bdda982b3ff)
-
 
 
  ********** details will be added after the paper is published ************
